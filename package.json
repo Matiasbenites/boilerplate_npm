@@ -10,8 +10,8 @@
     "start": "node server.js"
   },
   "repository": {
-    "author": "Matias M. Benites",
     "type": "git",
     "url": "https://idontknow/todo.git"
-  }
+  },
+  "author": "Matias M. Benites"
 }
