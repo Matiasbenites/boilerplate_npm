@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "version": "1.0.0",
+  "author": "Matias M. Benites",
+  "version": "0.1.0",
   "description": "Backend Development and API's freeCodeCamp",
   "dependencies": {
     "express": "^4.18.2"
@@ -12,6 +13,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Matiasbenites/fcc_backendAPIS.git"
-  },
-  "author": "Matias M. Benites"
+  }
 }
